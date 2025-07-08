@@ -3,7 +3,7 @@ Image processing with MATLAB
 
 Se estudia a lo largo de las diversas prácticas una imagen tipo dicom.
 
-### ¿Qué se debió aprender con este ejercicio?
+### Con esto pude crear una base muy sólida en :
 
 - Manejo de los ficheros tipo .dcm (dicom) muy común en el ámbito médico.
 - Lectura de los histogramas de la imagen.
